@@ -1,0 +1,1264 @@
+{
+    "1076493152170541109": {
+        "MissingPermissions": true,
+        "System": false,
+        "Name": "Fallout Survival",
+        "JoinTitle": "Welcome",
+        "JoinDescription": "Welcome {user.username} to {guild.name}",
+        "JoinColor": "#7CFC00",
+        "JoinFooter": "Welcome Message",
+        "JoinFooterBild": "false",
+        "JoinTimestamp": "true",
+        "JoinThumpnail": "true",
+        "JoinChannel": "false",
+        "LeaveTitle": "Leave",
+        "LeaveDescription": "The user ${user.username} has leaved the Server",
+        "LeaveColor": "#FF4500",
+        "LeaveFooter": "Leave Message",
+        "LeaveFooterBild": "false",
+        "LeaveTimestamp": "true",
+        "LeaveThumpnail": "true",
+        "LeaveChannel": "false",
+        "SystemColor": "#FF00FF",
+        "SystemEphemeral": "true",
+        "SystemGlobalBan": "false",
+        "SystemXP": false,
+        "SystemXPDuration": 1,
+        "SystemXPPerMessageMin": 15,
+        "SystemXPPerMessageMax": 30,
+        "SystemXPErhöhung": 0.55,
+        "SystemBildLevelNumber": "#FF4500",
+        "SystemBildLevel": "#FF00FF",
+        "SystemBildRankNumber": "#FF4500",
+        "SystemBildRank": "#FF00FF",
+        "SystemBildCurrentXPColor": "#FF00FF",
+        "SystemBildRequiredXPColor": "#FF00FF",
+        "SystemBildUsernameColor": "#FF00FF",
+        "SystemBildDiscriminatorColor": "#FF00FF",
+        "SystemBildPictureURL": "#2B2B2B",
+        "SystemBildOverlay": "#000000",
+        "SystemBildProgressbarTrack": "#484b4E",
+        "SystemWartungen": false,
+        "XPSystemChannel": {
+            "1077243082560503818": {
+                "aktiv": false
+            },
+            "1123712607317143662": {
+                "aktiv": false
+            },
+            "1083750677613903914": {
+                "aktiv": false
+            },
+            "1099434510401163344": {
+                "aktiv": false
+            },
+            "1129749777760915538": {
+                "aktiv": false
+            },
+            "1076811056543961158": {
+                "aktiv": false
+            },
+            "1129692652800053258": {
+                "aktiv": false
+            },
+            "1121099164617547816": {
+                "aktiv": false
+            },
+            "1127669342532812941": {
+                "aktiv": false
+            },
+            "1092835130797731891": {
+                "aktiv": false
+            },
+            "1089925918698512485": {
+                "aktiv": false
+            },
+            "1076589727030968330": {
+                "aktiv": false
+            },
+            "1129158976530030652": {
+                "aktiv": false
+            },
+            "1102197167990513774": {
+                "aktiv": false
+            },
+            "1079407402002165761": {
+                "aktiv": false
+            },
+            "1129743000407384215": {
+                "aktiv": false
+            },
+            "1123712364949286993": {
+                "aktiv": false
+            },
+            "1106676577435123783": {
+                "aktiv": false
+            },
+            "1123617869175992442": {
+                "aktiv": false
+            },
+            "1121796379153543178": {
+                "aktiv": false
+            },
+            "1077990795510026322": {
+                "aktiv": false
+            },
+            "1086363696021897218": {
+                "aktiv": false
+            },
+            "1123250665880289322": {
+                "aktiv": false
+            },
+            "1077248815456862248": {
+                "aktiv": false
+            },
+            "1076533779373490236": {
+                "aktiv": false
+            },
+            "1076536094394437683": {
+                "aktiv": false
+            },
+            "1127580955985596578": {
+                "aktiv": false
+            },
+            "1077243105918599238": {
+                "aktiv": false
+            },
+            "1076516666554466315": {
+                "aktiv": false
+            },
+            "1127661157231120435": {
+                "aktiv": false
+            },
+            "1125441024899162122": {
+                "aktiv": false
+            },
+            "1076493152963272727": {
+                "aktiv": false
+            },
+            "1091486116768649326": {
+                "aktiv": false
+            },
+            "1076572069799665825": {
+                "aktiv": false
+            },
+            "1076856453849153628": {
+                "aktiv": false
+            },
+            "1129731755507732551": {
+                "aktiv": false
+            },
+            "1126123385164939434": {
+                "aktiv": false
+            },
+            "1076561320893218856": {
+                "aktiv": false
+            },
+            "1123713070196346991": {
+                "aktiv": false
+            },
+            "1129465160680091758": {
+                "aktiv": false
+            },
+            "1076935013364412527": {
+                "aktiv": false
+            },
+            "1129124538119098443": {
+                "aktiv": false
+            },
+            "1078052253275013200": {
+                "aktiv": false
+            },
+            "1076518466456129637": {
+                "aktiv": false
+            },
+            "1078794326890524703": {
+                "aktiv": false
+            },
+            "1076589614275502120": {
+                "aktiv": false
+            },
+            "1083750921948893276": {
+                "aktiv": false
+            },
+            "1129614854647468142": {
+                "aktiv": false
+            },
+            "1077243212793651320": {
+                "aktiv": false
+            },
+            "1129769422375096411": {
+                "aktiv": false
+            },
+            "1092835874791764059": {
+                "aktiv": false
+            },
+            "1128946473262919691": {
+                "aktiv": false
+            },
+            "1125082692816474242": {
+                "aktiv": false
+            },
+            "1127669549702062100": {
+                "aktiv": false
+            },
+            "1123365768009097216": {
+                "aktiv": false
+            },
+            "1076589690788003975": {
+                "aktiv": false
+            },
+            "1124660375166668810": {
+                "aktiv": false
+            },
+            "1092845284108812360": {
+                "aktiv": false
+            },
+            "1129550904723505232": {
+                "aktiv": false
+            },
+            "1123205489002557580": {
+                "aktiv": false
+            },
+            "1077243161442795540": {
+                "aktiv": false
+            },
+            "1076935050601435136": {
+                "aktiv": false
+            },
+            "1106676424422727780": {
+                "aktiv": false
+            },
+            "1076533904682528769": {
+                "aktiv": false
+            },
+            "1076532760644157531": {
+                "aktiv": false
+            },
+            "1129544773523484726": {
+                "aktiv": false
+            },
+            "1110976523168649319": {
+                "aktiv": false
+            },
+            "1123357540248461372": {
+                "aktiv": false
+            },
+            "1100120179360419920": {
+                "aktiv": false
+            },
+            "1128006982993981581": {
+                "aktiv": false
+            },
+            "1076589647557316618": {
+                "aktiv": false
+            },
+            "1092845321123549184": {
+                "aktiv": false
+            },
+            "1113039541750739025": {
+                "aktiv": false
+            },
+            "1076635736058634300": {
+                "aktiv": false
+            },
+            "1079464593111396422": {
+                "aktiv": false
+            },
+            "1076846374898892840": {
+                "aktiv": false
+            },
+            "1129163153310224465": {
+                "aktiv": false
+            },
+            "1123713295640178768": {
+                "aktiv": false
+            },
+            "1076555043983073301": {
+                "aktiv": false
+            },
+            "1077243922084007946": {
+                "aktiv": false
+            },
+            "1084143355774111894": {
+                "aktiv": false
+            },
+            "1076529923306561648": {
+                "aktiv": false
+            },
+            "1076530985694412830": {
+                "aktiv": false
+            },
+            "1092842872044277800": {
+                "aktiv": false
+            },
+            "1076810777501114378": {
+                "aktiv": false
+            },
+            "1092835845247086632": {
+                "aktiv": false
+            },
+            "1076533935221252217": {
+                "aktiv": false
+            },
+            "1127201925062983750": {
+                "aktiv": false
+            },
+            "1121099094237126657": {
+                "aktiv": false
+            },
+            "1128213342591389736": {
+                "aktiv": false
+            },
+            "1077219867712835634": {
+                "aktiv": false
+            },
+            "1076559295300243457": {
+                "aktiv": false
+            },
+            "1077243134465028166": {
+                "aktiv": false
+            },
+            "1131654167648284763": {
+                "aktiv": false
+            },
+            "1131446905277264003": {
+                "aktiv": false
+            },
+            "1131637188245852363": {
+                "aktiv": false
+            },
+            "1130575645747974185": {
+                "aktiv": false
+            },
+            "1131627070586368032": {
+                "aktiv": false
+            },
+            "1131353875958480916": {
+                "aktiv": false
+            },
+            "1130975521677774878": {
+                "aktiv": false
+            },
+            "1130167425938231368": {
+                "aktiv": false
+            },
+            "1130869066190561452": {
+                "aktiv": false
+            },
+            "1130093216511840337": {
+                "aktiv": false
+            },
+            "1130943679830437888": {
+                "aktiv": false
+            },
+            "1129896227580936285": {
+                "aktiv": false
+            },
+            "1131587381548552202": {
+                "aktiv": false
+            },
+            "1130605823370997861": {
+                "aktiv": false
+            },
+            "1130903660851888181": {
+                "aktiv": false
+            },
+            "1131668219426508820": {
+                "aktiv": false
+            },
+            "1131676888809623724": {
+                "aktiv": false
+            },
+            "1132780196546760796": {
+                "aktiv": false
+            },
+            "1132339214831325266": {
+                "aktiv": false
+            },
+            "1132008905006911528": {
+                "aktiv": false
+            },
+            "1132762312491671684": {
+                "aktiv": false
+            },
+            "1132117833254436885": {
+                "aktiv": false
+            },
+            "1131982818956812381": {
+                "aktiv": false
+            },
+            "1132761768435916841": {
+                "aktiv": false
+            },
+            "1133021879200911461": {
+                "aktiv": false
+            },
+            "1133025150477013132": {
+                "aktiv": false
+            },
+            "1133055428671062137": {
+                "aktiv": false
+            },
+            "1133079585580384347": {
+                "aktiv": false
+            },
+            "1134596161479639121": {
+                "aktiv": false
+            },
+            "1134212636993659031": {
+                "aktiv": false
+            },
+            "1135935332244795492": {
+                "aktiv": false
+            },
+            "1135307814571614249": {
+                "aktiv": false
+            },
+            "1134204277892595835": {
+                "aktiv": false
+            },
+            "1134209518587359374": {
+                "aktiv": false
+            },
+            "1135305826366668860": {
+                "aktiv": false
+            },
+            "1135934432130375810": {
+                "aktiv": false
+            },
+            "1134509849384861716": {
+                "aktiv": false
+            },
+            "1135850124019507230": {
+                "aktiv": false
+            },
+            "1134542075543699496": {
+                "aktiv": false
+            },
+            "1135935241337454714": {
+                "aktiv": false
+            },
+            "1134653157847343139": {
+                "aktiv": false
+            },
+            "1135950212947513344": {
+                "aktiv": false
+            },
+            "1135950243343642806": {
+                "aktiv": false
+            },
+            "1135952665877151844": {
+                "aktiv": false
+            },
+            "1135952761339510784": {
+                "aktiv": false
+            },
+            "1135952990335930451": {
+                "aktiv": false
+            },
+            "1135953154396143656": {
+                "aktiv": false
+            },
+            "1135953165456507050": {
+                "aktiv": false
+            },
+            "1135953266065277078": {
+                "aktiv": false
+            },
+            "1135953346201649332": {
+                "aktiv": false
+            },
+            "1135953497972551781": {
+                "aktiv": false
+            },
+            "1135953598535192798": {
+                "aktiv": false
+            },
+            "1135953612380590162": {
+                "aktiv": false
+            },
+            "1135955953481695272": {
+                "aktiv": false
+            },
+            "1135958317391413258": {
+                "aktiv": false
+            },
+            "1135958559763472434": {
+                "aktiv": false
+            },
+            "1135958784301355128": {
+                "aktiv": false
+            },
+            "1135959224493547561": {
+                "aktiv": false
+            },
+            "1135959447617937518": {
+                "aktiv": false
+            },
+            "1135959818650259527": {
+                "aktiv": false
+            },
+            "1135961473009602600": {
+                "aktiv": false
+            },
+            "1135962631124033536": {
+                "aktiv": false
+            },
+            "1135962910435332096": {
+                "aktiv": false
+            },
+            "1135963996747472956": {
+                "aktiv": false
+            },
+            "1135965590268424372": {
+                "aktiv": false
+            },
+            "1135967622933004409": {
+                "aktiv": false
+            },
+            "1135967760514568312": {
+                "aktiv": false
+            },
+            "1135967803762036736": {
+                "aktiv": false
+            },
+            "1135974962193244300": {
+                "aktiv": false
+            },
+            "1135978399425380453": {
+                "aktiv": false
+            },
+            "1135978631487815690": {
+                "aktiv": false
+            },
+            "1135981576363188324": {
+                "aktiv": false
+            },
+            "1135984865087606897": {
+                "aktiv": false
+            },
+            "1135986586249597089": {
+                "aktiv": false
+            },
+            "1135987009786224712": {
+                "aktiv": false
+            },
+            "1135987605473865889": {
+                "aktiv": false
+            },
+            "1135987989814710404": {
+                "aktiv": false
+            },
+            "1135988250603945994": {
+                "aktiv": false
+            },
+            "1135988513083510955": {
+                "aktiv": false
+            },
+            "1135988669086437517": {
+                "aktiv": false
+            },
+            "1135989226077429912": {
+                "aktiv": false
+            },
+            "1135989682145071154": {
+                "aktiv": false
+            },
+            "1135989728039161867": {
+                "aktiv": false
+            },
+            "1135989851347497090": {
+                "aktiv": false
+            },
+            "1135989950014308383": {
+                "aktiv": false
+            },
+            "1135989979194073188": {
+                "aktiv": false
+            },
+            "1135990194709999747": {
+                "aktiv": false
+            },
+            "1135990314264449136": {
+                "aktiv": false
+            },
+            "1135994313239711845": {
+                "aktiv": false
+            },
+            "1135994602344693910": {
+                "aktiv": false
+            },
+            "1136069678960214026": {
+                "aktiv": false
+            },
+            "1136272692773929070": {
+                "aktiv": false
+            },
+            "1136286512745554071": {
+                "aktiv": false
+            },
+            "1136286162248536135": {
+                "aktiv": false
+            },
+            "1136007210015670282": {
+                "aktiv": false
+            },
+            "1136257325116706847": {
+                "aktiv": false
+            },
+            "1136298596078202930": {
+                "aktiv": false
+            },
+            "1136300976056307733": {
+                "aktiv": false
+            },
+            "1136310211964047551": {
+                "aktiv": false
+            },
+            "1136311056831102987": {
+                "aktiv": false
+            },
+            "1136311094198157402": {
+                "aktiv": false
+            },
+            "1136366436177150002": {
+                "aktiv": false
+            },
+            "1136367909174775829": {
+                "aktiv": false
+            },
+            "1136365229626888402": {
+                "aktiv": false
+            },
+            "1136616581972099162": {
+                "aktiv": false
+            },
+            "1136422378142957659": {
+                "aktiv": false
+            },
+            "1136652856481566840": {
+                "aktiv": false
+            },
+            "1136652907534626979": {
+                "aktiv": false
+            },
+            "1136683637950140437": {
+                "aktiv": false
+            },
+            "1136684439947202721": {
+                "aktiv": false
+            },
+            "1136684439355793458": {
+                "aktiv": false
+            },
+            "1136685852089659442": {
+                "aktiv": false
+            },
+            "1136698473119502507": {
+                "aktiv": false
+            },
+            "1136707691100778658": {
+                "aktiv": false
+            },
+            "1136707721828249641": {
+                "aktiv": false
+            },
+            "1136734238624976947": {
+                "aktiv": false
+            },
+            "1136794594391101511": {
+                "aktiv": false
+            },
+            "1136733782217609226": {
+                "aktiv": false
+            },
+            "1137022485645234186": {
+                "aktiv": false
+            },
+            "1137034439747174461": {
+                "aktiv": false
+            },
+            "1136944837275422811": {
+                "aktiv": false
+            },
+            "1136913499189149746": {
+                "aktiv": false
+            },
+            "1137011069567635566": {
+                "aktiv": false
+            },
+            "1137059125537284178": {
+                "aktiv": false
+            },
+            "1137059320266227712": {
+                "aktiv": false
+            },
+            "1137061778916900917": {
+                "aktiv": false
+            },
+            "1137066918172446720": {
+                "aktiv": false
+            },
+            "1137067711139152012": {
+                "aktiv": false
+            },
+            "1137072729456132096": {
+                "aktiv": false
+            },
+            "1137072944569405541": {
+                "aktiv": false
+            },
+            "1137073496468492358": {
+                "aktiv": false
+            },
+            "1137073614877892740": {
+                "aktiv": false
+            },
+            "1137073821732569180": {
+                "aktiv": false
+            },
+            "1137077665489235968": {
+                "aktiv": false
+            },
+            "1137084707624976414": {
+                "aktiv": false
+            },
+            "1137091682555412600": {
+                "aktiv": false
+            },
+            "1137480317725331607": {
+                "aktiv": false
+            },
+            "1137482813885661194": {
+                "aktiv": false
+            },
+            "1137488049605976204": {
+                "aktiv": false
+            },
+            "1137490444540981459": {
+                "aktiv": false
+            },
+            "1137410410295869529": {
+                "aktiv": false
+            },
+            "1137466742923346021": {
+                "aktiv": false
+            },
+            "1137717278155227176": {
+                "aktiv": false
+            },
+            "1138496555318521867": {
+                "aktiv": false
+            },
+            "1138442334443425864": {
+                "aktiv": false
+            },
+            "1137830473586982963": {
+                "aktiv": false
+            },
+            "1141751540886020256": {
+                "aktiv": false
+            },
+            "1140389919773167626": {
+                "aktiv": false
+            },
+            "1140690500387610758": {
+                "aktiv": false
+            },
+            "1142464289463095386": {
+                "aktiv": false
+            },
+            "1141410014360248441": {
+                "aktiv": false
+            },
+            "1139660862613880915": {
+                "aktiv": false
+            },
+            "1141823930550714518": {
+                "aktiv": false
+            },
+            "1141493517617725491": {
+                "aktiv": false
+            },
+            "1141870936098873364": {
+                "aktiv": false
+            },
+            "1142079306697298051": {
+                "aktiv": false
+            }
+        }
+    },
+    "385524088980111362": {
+        "MissingPermissions": false,
+        "System": false,
+        "Name": "Bietz Server",
+        "JoinTitle": "Welcome",
+        "JoinDescription": "Welcome {user.username} to {guild.name}",
+        "JoinColor": "#7CFC00",
+        "JoinFooter": "Welcome Message",
+        "JoinFooterBild": "false",
+        "JoinTimestamp": "true",
+        "JoinThumpnail": "true",
+        "JoinChannel": "false",
+        "LeaveTitle": "Leave",
+        "LeaveDescription": "The user ${user.username} has leaved the Server",
+        "LeaveColor": "#FF4500",
+        "LeaveFooter": "Leave Message",
+        "LeaveFooterBild": "false",
+        "LeaveTimestamp": "true",
+        "LeaveThumpnail": "true",
+        "LeaveChannel": "false",
+        "SystemColor": "#FF00FF",
+        "SystemEphemeral": "true",
+        "SystemGlobalBan": "false",
+        "SystemXP": false,
+        "SystemXPDuration": 1,
+        "SystemXPPerMessageMin": 15,
+        "SystemXPPerMessageMax": 30,
+        "SystemXPErhöhung": 0.55,
+        "SystemBildLevelNumber": "#FF4500",
+        "SystemBildLevel": "#FF00FF",
+        "SystemBildRankNumber": "#FF4500",
+        "SystemBildRank": "#FF00FF",
+        "SystemBildCurrentXPColor": "#FF00FF",
+        "SystemBildRequiredXPColor": "#FF00FF",
+        "SystemBildUsernameColor": "#FF00FF",
+        "SystemBildDiscriminatorColor": "#FF00FF",
+        "SystemBildPictureURL": "#2B2B2B",
+        "SystemBildOverlay": "#000000",
+        "SystemBildProgressbarTrack": "#484b4E",
+        "SystemWartungen": false,
+        "XPSystemChannel": {
+            "899635585650679848": {
+                "aktiv": false
+            },
+            "899628092585299998": {
+                "aktiv": false
+            },
+            "899628063346806784": {
+                "aktiv": false
+            },
+            "1043939578307940352": {
+                "aktiv": false
+            },
+            "1098592762703659090": {
+                "aktiv": false
+            },
+            "391267570319097856": {
+                "aktiv": false
+            },
+            "899628101665972254": {
+                "aktiv": false
+            },
+            "1053585282336825414": {
+                "aktiv": false
+            },
+            "899628056384262174": {
+                "aktiv": false
+            },
+            "1046864188028485642": {
+                "aktiv": false
+            },
+            "899628086071541800": {
+                "aktiv": false
+            },
+            "778336612601692180": {
+                "aktiv": false
+            },
+            "1029048885966024724": {
+                "aktiv": false
+            },
+            "908058885884092458": {
+                "aktiv": false
+            },
+            "899628076726616084": {
+                "aktiv": false
+            },
+            "899636793119494174": {
+                "aktiv": false
+            },
+            "899628059035062422": {
+                "aktiv": false
+            },
+            "1096897886274457630": {
+                "aktiv": false
+            },
+            "899628078702153739": {
+                "aktiv": false
+            },
+            "899628095642927144": {
+                "aktiv": false
+            },
+            "926805033696256010": {
+                "aktiv": false
+            },
+            "1033800410772799579": {
+                "aktiv": false
+            },
+            "1047596227845435493": {
+                "aktiv": false
+            },
+            "899628110004228127": {
+                "aktiv": false
+            },
+            "899628079624892426": {
+                "aktiv": false
+            },
+            "907347021055266866": {
+                "aktiv": false
+            },
+            "1055465235890307102": {
+                "aktiv": false
+            },
+            "976103903621959740": {
+                "aktiv": false
+            },
+            "899628094556618823": {
+                "aktiv": false
+            },
+            "1053596891356602379": {
+                "aktiv": false
+            },
+            "1055564243983937666": {
+                "aktiv": false
+            },
+            "899628105143029780": {
+                "aktiv": false
+            },
+            "899628053926404126": {
+                "aktiv": false
+            },
+            "899628085018771466": {
+                "aktiv": false
+            },
+            "899628108855005185": {
+                "aktiv": false
+            },
+            "1054312698780844032": {
+                "aktiv": false
+            },
+            "899628080560238622": {
+                "aktiv": false
+            },
+            "1028277356235862086": {
+                "aktiv": false
+            },
+            "899628083009695744": {
+                "aktiv": false
+            },
+            "906568212462858250": {
+                "aktiv": false
+            },
+            "998293137300652163": {
+                "aktiv": false
+            },
+            "899628065074860032": {
+                "aktiv": false
+            },
+            "1058685094774177856": {
+                "aktiv": false
+            },
+            "899628086994300939": {
+                "aktiv": false
+            },
+            "1058356881799786577": {
+                "aktiv": false
+            },
+            "935940936788234300": {
+                "aktiv": false
+            },
+            "899628112223031318": {
+                "aktiv": false
+            },
+            "899628103813431326": {
+                "aktiv": false
+            },
+            "899628111438692422": {
+                "aktiv": false
+            },
+            "899628071072722974": {
+                "aktiv": false
+            },
+            "899628061044146196": {
+                "aktiv": false
+            },
+            "1069291985854283848": {
+                "aktiv": false
+            },
+            "899628077724868678": {
+                "aktiv": false
+            },
+            "899628106355187722": {
+                "aktiv": false
+            },
+            "994939207183253564": {
+                "aktiv": false
+            }
+        }
+    },
+    "877465941670232095": {
+        "MissingPermissions": false,
+        "System": false,
+        "Name": "ChrissiGaming",
+        "JoinTitle": "Welcome",
+        "JoinDescription": "Welcome {user.username} to {guild.name}",
+        "JoinColor": "#7CFC00",
+        "JoinFooter": "Welcome Message",
+        "JoinFooterBild": "false",
+        "JoinTimestamp": "true",
+        "JoinThumpnail": "true",
+        "JoinChannel": "false",
+        "LeaveTitle": "Leave",
+        "LeaveDescription": "The user ${user.username} has leaved the Server",
+        "LeaveColor": "#FF4500",
+        "LeaveFooter": "Leave Message",
+        "LeaveFooterBild": "false",
+        "LeaveTimestamp": "true",
+        "LeaveThumpnail": "true",
+        "LeaveChannel": "false",
+        "SystemColor": "#FF00FF",
+        "SystemEphemeral": "true",
+        "SystemGlobalBan": "false",
+        "SystemXP": false,
+        "SystemXPDuration": 1,
+        "SystemXPPerMessageMin": 15,
+        "SystemXPPerMessageMax": 30,
+        "SystemXPErhöhung": 0.55,
+        "SystemBildLevelNumber": "#FF4500",
+        "SystemBildLevel": "#FF00FF",
+        "SystemBildRankNumber": "#FF4500",
+        "SystemBildRank": "#FF00FF",
+        "SystemBildCurrentXPColor": "#FF00FF",
+        "SystemBildRequiredXPColor": "#FF00FF",
+        "SystemBildUsernameColor": "#FF00FF",
+        "SystemBildDiscriminatorColor": "#FF00FF",
+        "SystemBildPictureURL": "#2B2B2B",
+        "SystemBildOverlay": "#000000",
+        "SystemBildProgressbarTrack": "#484b4E",
+        "SystemWartungen": false,
+        "XPSystemChannel": {
+            "1140075751207608471": {
+                "aktiv": false
+            },
+            "1077307846749847664": {
+                "aktiv": false
+            },
+            "877465942165176344": {
+                "aktiv": false
+            },
+            "1073535803319398450": {
+                "aktiv": false
+            },
+            "1055868068955435138": {
+                "aktiv": false
+            },
+            "909857449304031272": {
+                "aktiv": false
+            },
+            "906468988723286037": {
+                "aktiv": false
+            },
+            "929730280615448607": {
+                "aktiv": false
+            },
+            "1061694178062512128": {
+                "aktiv": false
+            },
+            "877468166354259988": {
+                "aktiv": false
+            },
+            "924693071638167572": {
+                "aktiv": false
+            },
+            "878632567312633876": {
+                "aktiv": false
+            },
+            "924689994428321832": {
+                "aktiv": false
+            },
+            "1054749333653827604": {
+                "aktiv": false
+            },
+            "924217412839149588": {
+                "aktiv": false
+            },
+            "939070758674653236": {
+                "aktiv": false
+            },
+            "924691606119006218": {
+                "aktiv": false
+            },
+            "1119311080183828600": {
+                "aktiv": false
+            },
+            "924692999127052289": {
+                "aktiv": false
+            },
+            "934749807191420988": {
+                "aktiv": false
+            },
+            "924320554788458536": {
+                "aktiv": false
+            },
+            "1168476357320245248": {
+                "aktiv": false
+            },
+            "909856165393993798": {
+                "aktiv": false
+            },
+            "1066831123168108585": {
+                "aktiv": false
+            },
+            "919209967557410837": {
+                "aktiv": false
+            },
+            "924210753710456872": {
+                "aktiv": false
+            },
+            "924208289426853888": {
+                "aktiv": false
+            },
+            "1098361484783923210": {
+                "aktiv": false
+            },
+            "924225254526685204": {
+                "aktiv": false
+            },
+            "934749728695013377": {
+                "aktiv": false
+            },
+            "924212251865546843": {
+                "aktiv": false
+            },
+            "1110248806576042044": {
+                "aktiv": false
+            },
+            "924230798482214943": {
+                "aktiv": false
+            },
+            "1085924339544760370": {
+                "aktiv": false
+            },
+            "926060918348083220": {
+                "aktiv": false
+            },
+            "877466408253026304": {
+                "aktiv": false
+            },
+            "1071208812926742582": {
+                "aktiv": false
+            }
+        }
+    },
+    "1043823096626434130": {
+        "MissingPermissions": false,
+        "System": false,
+        "Name": "Server von Augenblick",
+        "JoinTitle": "Welcome",
+        "JoinDescription": "Welcome {user.username} to {guild.name}",
+        "JoinColor": "#7CFC00",
+        "JoinFooter": "Welcome Message",
+        "JoinFooterBild": "false",
+        "JoinTimestamp": "true",
+        "JoinThumpnail": "true",
+        "JoinChannel": "false",
+        "LeaveTitle": "Leave",
+        "LeaveDescription": "The user ${user.username} has leaved the Server",
+        "LeaveColor": "#FF4500",
+        "LeaveFooter": "Leave Message",
+        "LeaveFooterBild": "false",
+        "LeaveTimestamp": "true",
+        "LeaveThumpnail": "true",
+        "LeaveChannel": "false",
+        "SystemColor": "#FF00FF",
+        "SystemEphemeral": "true",
+        "SystemGlobalBan": "false",
+        "SystemXP": false,
+        "SystemXPDuration": 1,
+        "SystemXPPerMessageMin": 15,
+        "SystemXPPerMessageMax": 30,
+        "SystemXPErhöhung": 0.55,
+        "SystemBildLevelNumber": "#FF4500",
+        "SystemBildLevel": "#FF00FF",
+        "SystemBildRankNumber": "#FF4500",
+        "SystemBildRank": "#FF00FF",
+        "SystemBildCurrentXPColor": "#FF00FF",
+        "SystemBildRequiredXPColor": "#FF00FF",
+        "SystemBildUsernameColor": "#FF00FF",
+        "SystemBildDiscriminatorColor": "#FF00FF",
+        "SystemBildPictureURL": "#2B2B2B",
+        "SystemBildOverlay": "#000000",
+        "SystemBildProgressbarTrack": "#484b4E",
+        "SystemWartungen": false,
+        "XPSystemChannel": {
+            "1043823097851166732": {
+                "aktiv": false
+            },
+            "1043823097851166733": {
+                "aktiv": false
+            },
+            "1043823097851166736": {
+                "aktiv": false
+            },
+            "1043823254718128209": {
+                "aktiv": false
+            },
+            "1043823254718128210": {
+                "aktiv": false
+            },
+            "1075360090187649125": {
+                "aktiv": false
+            }
+        }
+    },
+    "1074647426922729472": {
+        "MissingPermissions": false,
+        "System": false,
+        "Name": "Server von Augenblick2",
+        "JoinTitle": "Welcome",
+        "JoinDescription": "Welcome {user.username} to {guild.name}",
+        "JoinColor": "#7CFC00",
+        "JoinFooter": "Welcome Message",
+        "JoinFooterBild": "false",
+        "JoinTimestamp": "true",
+        "JoinThumpnail": "true",
+        "JoinChannel": "false",
+        "LeaveTitle": "Leave",
+        "LeaveDescription": "The user ${user.username} has leaved the Server",
+        "LeaveColor": "#FF4500",
+        "LeaveFooter": "Leave Message",
+        "LeaveFooterBild": "false",
+        "LeaveTimestamp": "true",
+        "LeaveThumpnail": "true",
+        "LeaveChannel": "false",
+        "SystemColor": "#FF00FF",
+        "SystemEphemeral": "true",
+        "SystemGlobalBan": "false",
+        "SystemXP": false,
+        "SystemXPDuration": 1,
+        "SystemXPPerMessageMin": 15,
+        "SystemXPPerMessageMax": 30,
+        "SystemXPErhöhung": 0.55,
+        "SystemBildLevelNumber": "#FF4500",
+        "SystemBildLevel": "#FF00FF",
+        "SystemBildRankNumber": "#FF4500",
+        "SystemBildRank": "#FF00FF",
+        "SystemBildCurrentXPColor": "#FF00FF",
+        "SystemBildRequiredXPColor": "#FF00FF",
+        "SystemBildUsernameColor": "#FF00FF",
+        "SystemBildDiscriminatorColor": "#FF00FF",
+        "SystemBildPictureURL": "#2B2B2B",
+        "SystemBildOverlay": "#000000",
+        "SystemBildProgressbarTrack": "#484b4E",
+        "SystemWartungen": false,
+        "XPSystemChannel": {
+            "1074647427736420354": {
+                "aktiv": false
+            },
+            "1074647801125933076": {
+                "aktiv": false
+            }
+        }
+    }
+}
